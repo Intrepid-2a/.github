@@ -6,8 +6,8 @@ It is experiment 2a from this pre-registration: [https://osf.io/4rn85](https://o
 
 In short, we test the perception of space in 3 behavioral experiments around the blind spot (non-activatable) and other parts of the retina in the population:
 
-- the perception of **distance** between pairs of dots
-- the perception of **area** encompassed by a circular outline, and
-- the perception of **curvature** in an apparent motion trace of 4 dots
+- **distance** between pairs of dots
+- **area** encompassed by a circular outline, and
+- **curvature** in an apparent motion trace of 4 dots
 
 Stimuli are presented either spanning the blind spot (first two experiments) or very close to it (third experiment) or at control locations equally far from fixation.
