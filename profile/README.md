@@ -2,7 +2,7 @@
 
 This GitHub organization collects the code for three experiments that are part of an adversarial collaboration to compare predictions from computational models / theories on spatial perception (Integrated Information Theory and Predictive Processing) in non-activated versus non-activatable parts of the retina.
 
-It is experiment 2a from this pre-registration: [https://osf.io/4rn85](https://osf.io/4rn85).
+It is experiment 2a from this pre-registration: [https://osf.io/4rn85](https://osf.io/4rn85) in this project: [TWCF 0646](https://www.templetonworldcharity.org/projects-database/0646).
 
 In short, we test the perception of space in 3 behavioral experiments around the blind spot (non-activatable) and other parts of the retina in the population:
 
