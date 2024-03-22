@@ -16,6 +16,6 @@ In short, we test the perception of space in 3 behavioral experiments around the
 
 Stimuli are presented either spanning the blind spot (first two experiments) or very close to it (third experiment) or at control locations equally far from fixation.
 
-### Folder structureL
+### Folder structure:
 
 Individual tasks in repositories expect a certain folder structure and do not work without it. This is set up by the code in the `Runner` repository, see details there.
